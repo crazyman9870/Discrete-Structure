@@ -1,0 +1,12 @@
+
+
+# syntax error: keyword not a parameter
+
+
+Schemes:
+	student('Name')
+Facts:
+Rules:
+Queries:
+	major(Name
+	student('Name')?
